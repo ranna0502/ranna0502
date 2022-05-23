@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![ranna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranna0502&theme=dracula)](https://github.com/ranna0502/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranna0502&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ranna0502/github-readme-stats)
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-🌱　成果物
-ーーーーーーーーーーーーーーーー
-Photolink
-　　・ポートフォリオリポジトリ ： https://github.com/ranna0502
- ・アプリケーションサイト ： https://photolink-pf.com/
- ・使用技術 : Ruby on Rails , HTML.CSS(SCSS) , JavaScript , jQuery
+_______________________  
+🌱　成果物  
+-----------------------  
+Photolink  
+　　・ポートフォリオリポジトリ ： https://github.com/ranna0502  
+ ・アプリケーションサイト ： https://photolink-pf.com/  
+ ・使用技術 : Ruby on Rails , HTML.CSS(SCSS) , JavaScript , jQuery  
 
