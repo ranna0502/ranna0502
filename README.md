@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ranna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranna0502)](https://github.com/ranna0502/github-readme-stats&theme=dracula)
+[![ranna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranna0502&theme=dracula)](https://github.com/ranna0502/github-readme-stats)
 
