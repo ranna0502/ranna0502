@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ranna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranna0502)](https://github.com/ranna0502/github-readme-stats)
+[![ranna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranna0502)](https://github.com/ranna0502/github-readme-stats.vercel.app/api?username=ranna0502&show_icons=true&theme=dracula)
+
