@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 _______________________  
 🌱　成果物  
 -----------------------  
-Photolink   
+**Photolink**     
  ・ポートフォリオリポジトリ ： https://github.com/ranna0502  
+ 
  ・アプリケーションサイト ： https://photolink-pf.com/  
+ 
  ・使用技術 : Ruby on Rails , HTML.CSS(SCSS) , JavaScript , jQuery  
+ 
 
