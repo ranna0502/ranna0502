@@ -26,6 +26,8 @@ _______________________
  
  ・アプリケーションサイト ： https://photolink-pf.com/  
  
- ・使用技術 : Ruby on Rails , HTML.CSS(SCSS) , JavaScript , jQuery  
+ ・使用技術 : Ruby(Ruby on Rails) , HTML.CSS(SCSS) , JavaScript , jQuery  
+ 
+ https://user-images.githubusercontent.com/80334879/171394465-dca2ed9f-5627-4b09-b7e0-17ee139e4553.mov
  
 
