@@ -30,7 +30,7 @@ _______________________
  
  **<ユーザー検索画面→マッチング依頼まで>**  
  
- https://user-images.githubusercontent.com/80334879/171394465-dca2ed9f-5627-4b09-b7e0-17ee139e4553.mov
+[ https://user-images.githubusercontent.com/80334879/171394465-dca2ed9f-5627-4b09-b7e0-17ee139e4553.mov](https://user-images.githubusercontent.com/80334879/172220931-dade8b54-b703-4dd0-a9ee-0b8ca51cc4e7.mov)
  
 
 _______________________  
